@@ -1,3 +1,5 @@
+// tạo đối tượng PaymentData ngẫu nhiên để thử nghiệm 
+
 package datagenerator;
 
 import helper.DataGeneratorHelper;

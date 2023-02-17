@@ -1,3 +1,5 @@
+//tính toán thời gian giữa 2 sự kiện
+
 package app;
 
 import model.PaymentDataCase2;

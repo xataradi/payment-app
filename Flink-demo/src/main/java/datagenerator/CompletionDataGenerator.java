@@ -1,3 +1,5 @@
+// tạo ngẫu nhiên data để thử nghiệm
+
 package datagenerator;
 
 import helper.DataGeneratorHelper;

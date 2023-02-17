@@ -1,3 +1,5 @@
+// tạo các đối tượng EventCharges để thử nghiệm
+
 package datagenerator;
 
 import helper.DataGeneratorHelper;

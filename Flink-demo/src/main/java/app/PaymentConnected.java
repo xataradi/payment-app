@@ -1,3 +1,5 @@
+// xử lý luồng dữ liệu PaymentDa và EventCharges. Sau đó ghi lại sự kiện này vào log
+
 package app;
 
 import datagenerator.EventChargeGenerator;

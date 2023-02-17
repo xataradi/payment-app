@@ -1,3 +1,6 @@
+// sử dụng một số thư viện của apache flink để tính toán 
+//khoảng thời gian hoàn thành của một thanh toán nào đó
+
 package app;
 
 import datagenerator.CompletionDataGenerator;

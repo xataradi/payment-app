@@ -1,3 +1,5 @@
+// xử lý dữ liệu thanh toán sau đó lưu vào 1 log có sẵn
+
 package app;
 
 import datagenerator.PaymentDataGenerator;

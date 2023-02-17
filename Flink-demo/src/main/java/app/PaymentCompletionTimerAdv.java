@@ -1,3 +1,5 @@
+// sử dụng một số thư viện của Flink, tạo luồng dữ liệu mới ghi lại vào log
+
 package app;
 
 import datagenerator.CompletionDataGenerator;

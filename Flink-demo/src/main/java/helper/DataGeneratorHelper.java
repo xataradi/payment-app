@@ -1,3 +1,5 @@
+// tạo ngẫu nhiên các ID, time,...... để thử nghiệm dữ liệu
+
 package helper;
 
 import Utils.RandomNumberGenerator;
